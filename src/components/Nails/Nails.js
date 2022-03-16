@@ -19,4 +19,4 @@ function Nails() {
       );
 }
 
-export default Nails;
+export default Nails
