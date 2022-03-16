@@ -1,0 +1,16 @@
+.links {
+  color: #21fdd1 !important;
+}
+
+.name {
+  color: #96e2ec !important;
+}
+
+#nav {
+  background-color: #0E3B43;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  z-index: 2;
+}
