@@ -4,7 +4,9 @@ import { Card, Button } from 'react-bootstrap';
 function Main() {
   return (
     <>
-      <h1>Welcome</h1>
+      <br></br><br></br><br></br>
+      <h2>Nail Collection</h2>
+      <h2>By Andy Huynh</h2>
     </>
   );
 }
